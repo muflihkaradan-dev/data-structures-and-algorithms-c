@@ -1,0 +1,25 @@
+# Executables
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Logs
+*.log
+
+# Temporary files
+*~
+
+# Swap files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
